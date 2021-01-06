@@ -1,4 +1,6 @@
 This is a new file in the local repo via GIT.
 2nd line added to the branch of local repo GIT.
 3rd line addded to branch of local repo GIT again.
+4th line added.
+
 
